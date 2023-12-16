@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Producto 2",
+    "description": "Descripcion del producto 2",
+    "price": 59.99,
+    "thumbnail": "ruta/imagen2.jpg",
+    "code": "ABC125",
+    "stock": 80,
+    "id": 2
+  }
+]
